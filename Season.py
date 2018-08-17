@@ -24,4 +24,3 @@ elif season in range(9,12):
 else:
     print ('Enter correct number')
 
-#как добавить обработку строки
